@@ -1,10 +1,7 @@
 ---
 
-# 📘 MSK Institute – Python & CLI Projects
+<h1 align="center"> 📘 MSK Institute – Python Projects </h1>
 
-<p align="center">  
-  <img src="https://via.placeholder.com/120x120.png?text=MSK" alt="MSK Institute Logo" width="120"/>  
-</p>  
 
 <h3 align="center">🚀 Learn. Build. Grow. | MSK Institute</h3>  
 
